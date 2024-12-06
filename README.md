@@ -1,4 +1,6 @@
 # Hello! 😍 Iʼm is Azizbek
+
 <ul>
-  <li>Men 2009 tugʻulganman</li>
+  <li> I was born in 2009  </li>
+  <li> I live in Guzor district of Kashkadarya region  </li>
 </ul>
